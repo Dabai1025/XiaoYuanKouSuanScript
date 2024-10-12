@@ -1,4 +1,3 @@
-# XiaoYuanKouSuanScript
 ## 小猿口算比大小辅助脚本
 
 ### 项目说明
